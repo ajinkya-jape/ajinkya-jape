@@ -29,14 +29,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 👨‍💻 **About Me**
-
-Currently, I work at **iProgrammer Solutions Pvt. Ltd.**, where I lead and mentor a talented team of developers in. 
-My role involves collaborating with cross-functional teams, solving complex problems, and delivering high-quality mobile applications that meet client requirements. 
-I have a strong focus on best practices in coding and a deep understanding of Android design principles.
-
----
-
 ### 📈 **Experience**
 
 With a solid background in Android development, I have successfully completed numerous projects for globally located clients.
