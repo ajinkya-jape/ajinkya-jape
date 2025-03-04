@@ -39,13 +39,8 @@ I enjoy working on elegant, intuitive mobile apps and have a keen eye for detail
 ### 🌟 **Get to Know Me Better**
 
 - [Protfolio](https://ajinkyajape.framer.website/)
-- 
----
-
-### 🌟 **Let's Connect**
-
 - [LinkedIn](https://www.linkedin.com/in/ajinkya-vh-jape)
-
+  
 ---
 
 Feel free to explore my repositories to see the work I've done. I'm always open to new opportunities and collaborations!
