@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Lead Software Engineer - Android
 
-👋 Hi, I'm Ajinkya Jape, a passionate and experienced Android Developer with over 8 years of hands-on experience. I specialize in building, integrating, testing, and supporting Android applications using cutting-edge technologies. 
+👋 Hi, I'm Ajinkya Jape, a passionate and experienced Android Developer with over 9 years of hands-on experience. I specialize in building, integrating, testing, and supporting Android applications using cutting-edge technologies. 
 
 ---
 
