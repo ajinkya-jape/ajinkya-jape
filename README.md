@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 - **Languages:** Kotlin, Java, JavaScript
 - **Frameworks:** React Native, Jetpack Compose
 - **Libraries:** Coroutines, Dagger, Retrofit
-- **Tools:** Git, Bitbucket, Jira
-- **Methodologies:** Agile, Scrum
+- **Tools:** GitHun, Bitbucket, Jira
+- **Methodologies:** Agile
 
 ---
 
